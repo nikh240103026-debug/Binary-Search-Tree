@@ -1,0 +1,80 @@
+Find the largest element in an array
+Find the smallest element in an array
+Find the second largest element
+Reverse an array
+Check if an array is sorted
+Move all zeros to the end
+Remove duplicates from a sorted array
+Rotate array by one position
+Find the sum of array elements
+Find missing number from 1 to N
+Searching
+Linear Search
+Binary Search
+Find first occurrence of an element
+Find last occurrence of an element
+Count occurrences of an element
+Strings
+Reverse a string
+Check palindrome
+Count vowels and consonants
+Convert lowercase to uppercase
+Find frequency of each character
+Remove spaces from a string
+Check anagram
+Hashing
+Count frequency of elements
+Find first non-repeating character
+Find duplicate elements
+Find the most frequent element
+Two Pointers
+Reverse an array using two pointers
+Check palindrome using two pointers
+Remove duplicates from sorted array
+Pair with given sum
+Sorting
+Bubble Sort
+Selection Sort
+Insertion Sort
+Sort 0s and 1s
+Sort an array of 0s, 1s, and 2s
+Recursion
+Print numbers from 1 to N
+Print numbers from N to 1
+Factorial
+Fibonacci
+Sum of first N numbers
+Power of a number
+Linked List
+Traverse a linked list
+Insert at beginning
+Insert at end
+Delete first node
+Delete last node
+Search an element
+Stack
+Implement Stack using Array
+Reverse a string using Stack
+Check balanced parentheses
+Implement Queue using Array
+Implement Queue using Linked List
+Generate Binary Numbers from 1 to N
+Beginner Problem Sequence (Recommended)
+
+Do these in order:
+
+Largest Element
+Second Largest Element
+Reverse Array
+Check Sorted Array
+Linear Search
+Binary Search
+Palindrome String
+Frequency Count
+Bubble Sort
+Insertion Sort
+Factorial (Recursion)
+Fibonacci (Recursion)
+Linked List Traversal
+Stack Implementation
+Queue Implementation
